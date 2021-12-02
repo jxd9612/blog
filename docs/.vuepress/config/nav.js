@@ -7,6 +7,7 @@ module.exports = [
   { text: '技术', link: '/technology/' },
   { text: '算法', link: '/algorithm/' },
   { text: '阅读', link: '/read/' },
+  { text: '基础', link: '/base/' },
   {
     text: '索引',
     link: '/archives/',
